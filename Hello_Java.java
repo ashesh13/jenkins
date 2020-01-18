@@ -1,4 +1,4 @@
-public class Hello
+public class Hello_Java
 {
 	public static void main(String[] args) {
 	    // Prints "Hello World" in the terminal window.
